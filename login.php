@@ -123,30 +123,31 @@
         </div>
     </header>
 
-    <div class="container">
-        <div class="row justify-content-center mt-5">
-            <div class="col-lg-4 col-md-12">
-                <div class="card">
-                    <div class="card-body">
-                        <h4 class="card-title text-center">Login</h4>
-                        <form>
-                            <div class="mb-3">
-                                <label for="username" class="form-label">Username</label>
-                                <input type="text" class="form-control" id="username" placeholder="Enter your username">
-                            </div>
-                            <div class="mb-3">
-                                <label for="password" class="form-label">Password</label>
-                                <input type="password" class="form-control" id="password" placeholder="Enter your password">
-                            </div>
-                            <button type="submit" class="btn btn-primary w-100">Login</button>
-                            <p class="mt-3 text-center">Don't have an account? <a style="color: brown;" href="register.php">Register here</a></p>
-                        </form>
+    <section id="banner" style="background: #F9F3EC;" class="p-5">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-4 col-md-12">
+                    <div class="card">
+                        <div class="card-body">
+                            <h4 class="card-title text-center">Login</h4>
+                            <form>
+                                <div class="mb-3">
+                                    <label for="username" class="form-label">Username</label>
+                                    <input type="text" class="form-control" id="username" placeholder="Enter your username">
+                                </div>
+                                <div class="mb-3">
+                                    <label for="password" class="form-label">Password</label>
+                                    <input type="password" class="form-control" id="password" placeholder="Enter your password">
+                                </div>
+                                <button type="submit" class="btn btn-primary w-100">Login</button>
+                                <p class="mt-3 text-center">Don't have an account? <a style="color: brown;" href="register.php">Register here</a></p>
+                            </form>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-
+    </section>
     <footer id="footer" class="my-5">
         <div class="container py-5 my-5">
             <div class="row">

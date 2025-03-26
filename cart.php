@@ -165,7 +165,7 @@
     <div class="container-fluid pt-5">
         <div class="row px-xl-5">
             <div class="col-lg-8 table-responsive mb-5">
-                <table class="table table-bordered text-center mb-0">
+                <table class="table table-bordered text-center mb-0" style="border: 1px solid #DEAD6F !important;">
                     <thead class="bg-primary text-dark">
                         <tr>
                             <th>Products</th>
@@ -235,7 +235,7 @@
                 </table>
             </div>
             <div class="col-lg-4">
-                <div class="card border-primary mb-5">
+                <div class="card border-primary mb-5" style="border: 2px solid #DEAD6F !important;">
                     <div class="card-header bg-primary border-0">
                         <h4 class="font-weight-semi-bold m-0">Cart Summary</h4>
                     </div>
@@ -249,7 +249,7 @@
                             <h6 class="font-weight-medium">₱10</h6>
                         </div>
                     </div>
-                    <div class="card-footer border-secondary bg-transparent">
+                    <div class="card-footer border-primary bg-transparent">
                         <div class="d-flex justify-content-between mt-2">
                             <h5 class="font-weight-bold">Total</h5>
                             <h5 class="font-weight-bold">₱160</h5>
@@ -311,10 +311,10 @@
             <hr class="m-0">
             <div class="row mt-3">
                 <div class="col-md-6 copyright">
-                    <p class="secondary-font">© 2025</p>
+                    <p class="primary-font">© 2025</p>
                 </div>
                 <div class="col-md-6 text-md-end">
-                    <p class="secondary-font"><a href="https://templatesjungle.com/" target="_blank"
+                    <p class="primary-font"><a href="https://templatesjungle.com/" target="_blank"
                             class="text-decoration-underline fw-bold text-black-50"></a> Made by <a
                             href="https://themewagon.com/" target="_blank"
                             class="text-decoration-underline fw-bold text-black-50">Dave Corpuz</a></p>

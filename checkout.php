@@ -152,7 +152,7 @@
         <div class="d-flex flex-column align-items-center justify-content-center" style="min-height: 300px">
             <h1 class="font-weight-semi-bold text-uppercase mb-3">Checkout</h1>
             <div class="d-inline-flex">
-                <p class="m-0"><a href="index.php">Home</a></p>
+                <p class="m-0"><a href="index.php" style="color: white;">Home</a></p>
                 <p class="m-0 px-2">-</p>
                 <p class="m-0">Checkout</p>
             </div>
@@ -168,25 +168,21 @@
                 <div class="mb-4">
                     <h4 class="font-weight-semi-bold mb-4">Billing Address</h4>
                     <div class="row">
-                        <div class="col-md-6 form-group">
-                            <label>First Name</label>
-                            <input class="form-control" type="text" placeholder="John">
-                        </div>
-                        <div class="col-md-6 form-group">
-                            <label>Last Name</label>
-                            <input class="form-control" type="text" placeholder="Doe">
+                        <div class="col-md-12 form-group">
+                            <label>Fullname</label>
+                            <input class="form-control" type="text" placeholder="John Doe Sample" style="border: 2px solid #DEAD6F !important;">
                         </div>
                         <div class="col-md-6 form-group">
                             <label>E-mail</label>
-                            <input class="form-control" type="text" placeholder="example@email.com">
+                            <input class="form-control" type="text" placeholder="sample@gmail.com" style="border: 2px solid #DEAD6F !important;">
                         </div>
                         <div class="col-md-6 form-group">
                             <label>Mobile No</label>
-                            <input class="form-control" type="text" placeholder="+123 456 789">
+                            <input class="form-control" type="text" placeholder="09********" style="border: 2px solid #DEAD6F !important;">
                         </div>
-                        <div class="col-md-6 form-group">
+                        <div class="col-md-12 form-group">
                             <label>Address</label>
-                            <input class="form-control" type="text" placeholder="House/Street No. Barangay/Municipality">
+                            <input class="form-control" type="text" placeholder="House/Street No. Barangay/Municipality" style="border: 2px solid #DEAD6F !important;">
                         </div>
                     </div>
                 </div>
@@ -242,7 +238,7 @@
                 </div>
             </div>
             <div class="col-lg-4">
-                <div class="card border-primary mb-5">
+                <div class="card border-primary mb-5" style="border: 2px solid #DEAD6F !important;">
                     <div class="card-header bg-primary border-0">
                         <h4 class="font-weight-semi-bold m-0">Order Total</h4>
                     </div>
@@ -277,7 +273,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="card border-primary mb-5">
+                <div class="card border-primary mb-5" style="border: 2px solid #DEAD6F !important;">
                     <div class="card-header bg-primary border-0">
                         <h4 class="font-weight-semi-bold m-0">Payment</h4>
                     </div>
