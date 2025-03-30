@@ -150,11 +150,11 @@
     <!-- Page Header Start -->
     <div class="container-fluid bg-primary mb-5">
         <div class="d-flex flex-column align-items-center justify-content-center" style="min-height: 300px">
-            <h1 class="font-weight-semi-bold text-uppercase mb-3">BOOK NOW!</h1>
+            <h1 class="font-weight-semi-bold text-uppercase mb-3">Contact Us</h1>
             <div class="d-inline-flex">
                 <p class="m-0"><a style="color: white;" href="index.php">Home</a></p>
                 <p class="m-0 px-2">-</p>
-                <p class="m-0">Appointments/Services</p>
+                <p class="m-0">Contact</p>
             </div>
         </div>
     </div>
@@ -162,66 +162,19 @@
 
 
     <!-- Contact Start -->
-    <div class="container py-4">
-        <div class="border border-2 p-4 mb-3" style="border: 2px solid black !important;">
-            <div class="d-flex justify-content-between align-items-center">
-                <div>
-                    <h5 class="fw-bold">Grooming, Bath, Nail, Trim (Small Dog)</h5>
-                    <label for="">SELECT CUTS:</label>
-                    <select name="" id="">
-                        <option value="">Bearcut</option>
-                        <option value="">Summercut</option>
-                        <option value="">Puppycut</option>
-                        <option value="">Bald</option>
-                        <option value="">Semi-kalbo</option>
-                    </select>
-                </div>
-                <div class="text-end">
-                    <p class="mb-1">1-2 hrs</p>
-                    <p class="fw-bold">₱350</p>
-                </div>
-                <button class="btn btn-primary border rounded-pill px-4">Book Now</button>
-            </div>
+    <div class="container-fluid pt-5">
+        <div class="text-center mb-4">
+            <h2 class="section-title px-5"><span class="px-2">CONTACT FOR ANY QUERIES</span></h2>
         </div>
-        <div class="border border-2 p-4 mb-3" style="border: 2px solid black !important;">
-            <div class="d-flex justify-content-between align-items-center">
-                <div>
-                    <h5 class="fw-bold">Grooming, Bath, Nail, Trim (Medium Dog)</h5>
-                    <label for="">SELECT CUTS:</label>
-                    <select name="" id="">
-                        <option value="">Bearcut</option>
-                        <option value="">Summercut</option>
-                        <option value="">Puppycut</option>
-                        <option value="">Bald</option>
-                        <option value="">Semi-kalbo</option>
-                    </select>
+        <div class="row px-xl-5">
+            <div class="col-lg-12 mt-5 mb-5">
+                <h5 class="font-weight-semi-bold mb-3">GET IN TOUCH</h5>
+                <div class="d-flex flex-column mb-3">
+                    <h5 class="font-weight-semi-bold mb-3" style="color: red;">PETLIGO - OPEN HOURS 8:00am - 5:00pm</h5>
+                    <p class="mb-2"><i class="fa fa-map-marker-alt text-primary mr-3"></i>123 Street, New York, USA</p>
+                    <p class="mb-2"><i class="fa fa-envelope text-primary mr-3"></i>info@example.com</p>
+                    <p class="mb-2"><i class="fa fa-phone-alt text-primary mr-3"></i>CONTACT AT : +012 345 67890 <br> MESSAGE IN FACEBOOK : </p>
                 </div>
-                <div class="text-end">
-                    <p class="mb-1">1-2 hrs</p>
-                    <p class="fw-bold">₱350</p>
-                </div>
-                <button class="btn btn-primary border rounded-pill px-4">Book Now</button>
-            </div>
-        </div>
-
-        <div class="border border-2 p-4 mb-3" style="border: 2px solid black !important;">
-            <div class="d-flex justify-content-between align-items-center">
-                <div>
-                    <h5 class="fw-bold">Grooming, Bath, Nail, Trim (Large Dog)</h5>
-                    <label for="">SELECT CUTS:</label>
-                    <select name="" id="">
-                        <option value="">Bearcut</option>
-                        <option value="">Summercut</option>
-                        <option value="">Puppycut</option>
-                        <option value="">Bald</option>
-                        <option value="">Semi-kalbo</option>
-                    </select>
-                </div>
-                <div class="text-end">
-                    <p class="mb-1">3-4 hrs</p>
-                    <p class="fw-bold">₱600</p>
-                </div>
-                <button class="btn btn-primary border rounded-pill px-4">Book Now</button>
             </div>
         </div>
     </div>

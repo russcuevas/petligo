@@ -127,6 +127,7 @@
                                         <tr>
                                             <th>Product Image</th>
                                             <th>Name</th>
+                                            <th>Category</th>
                                             <th>Price</th>
                                             <th>Stocks</th>
                                             <th>Status</th>
@@ -137,7 +138,7 @@
                                         <tr>
                                             <td><img src="" alt="Sample"></td>
                                             <td>2420580</td>
-
+                                            <td>Foods</td>
                                             <td>P</td>
                                             <td>20</td>
                                             <td>Available</td>
